@@ -1,0 +1,11 @@
+Added Component: Designator=R70(CAY16)
+Added Pin To Net: NetName=CY_PCLK Pin=R70-1
+Added Pin To Net: NetName=CY_CTRL0 Pin=R70-2
+Added Pin To Net: NetName=CY_CTRL1 Pin=R70-3
+Added Pin To Net: NetName=CY_CTRL2 Pin=R70-4
+Added Pin To Net: NetName=D13 Pin=R71-5
+Added Pin To Net: NetName=CTRL0 Pin=R71-6
+Added Pin To Net: NetName=CTRL1 Pin=R71-7
+Added Pin To Net: NetName=CTRL6 Pin=R71-8
+Added Member To Class: ClassName=as14120_x31_usb Member=Component R70 22
+Added Member To Class: ClassName=as14120_x31_usb Member=Component R80 1K 5% 0603(1608)

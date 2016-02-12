@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=R1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=R1-2
+Removed Pin From Net: NetName=VREFDDR0 Pin=R1-4
+Removed Pin From Net: NetName=VREFDDR0 Pin=R2-2
+Removed Pin From Net: NetName=VREFDDR1 Pin=R2-3
+Removed Pin From Net: NetName=VREFDDR0 Pin=R3-1
+Removed Pin From Net: NetName=VREFDDR0 Pin=R3-2
+Removed Pin From Net: NetName=DDR0_A5 Pin=R3-5
+Removed Pin From Net: NetName=DDR0_A9 Pin=R3-6
+Removed Pin From Net: NetName=DDR0_A13 Pin=R3-7
+Removed Pin From Net: NetName=DDR0_A7 Pin=R3-8
+Removed Pin From Net: NetName=DDR0_BA0 Pin=R4-7
+Removed Pin From Net: NetName=DDR0_BA2 Pin=R4-8
+Removed Pin From Net: NetName=VREFDDR1 Pin=R5-3
+Removed Pin From Net: NetName=VREFDDR1 Pin=R6-1
+Removed Pin From Net: NetName=VREFDDR1 Pin=R6-3
+Removed Pin From Net: NetName=VREFDDR1 Pin=R6-4
+Removed Pin From Net: NetName=VREFDDR0 Pin=R7-1
+Removed Pin From Net: NetName=VREFDDR0 Pin=R7-2
+Removed Pin From Net: NetName=VREFDDR1 Pin=R7-3
+Removed Pin From Net: NetName=VREFDDR0 Pin=R7-4
+Removed Pin From Net: NetName=VREFDDR1 Pin=R8-1
+Removed Pin From Net: NetName=VREFDDR0 Pin=R8-2
+Removed Pin From Net: NetName=VREFDDR1 Pin=R8-3
+Removed Pin From Net: NetName=VREFDDR1 Pin=R8-4
+Removed Pin From Net: NetName=VREFDDR0 Pin=R9-1
+Removed Pin From Net: NetName=VREFDDR0 Pin=R9-2
+Removed Pin From Net: NetName=VREFDDR1 Pin=R9-3
+Removed Pin From Net: NetName=VREFDDR0 Pin=R9-4
+Removed Pin From Net: NetName=VREFDDR1 Pin=R10-1
+Removed Pin From Net: NetName=VREFDDR0 Pin=R10-2
+Removed Pin From Net: NetName=VREFDDR1 Pin=R10-3
+Removed Pin From Net: NetName=VREFDDR1 Pin=R10-4
+Removed Pin From Net: NetName=VREFDDR0 Pin=R11-1
+Removed Pin From Net: NetName=VREFDDR0 Pin=R11-2
+Removed Pin From Net: NetName=VREFDDR1 Pin=R11-3
+Removed Pin From Net: NetName=VREFDDR0 Pin=R11-4
+Removed Pin From Net: NetName=VREFDDR1 Pin=R12-1
+Removed Pin From Net: NetName=VREFDDR0 Pin=R12-2
+Removed Pin From Net: NetName=VREFDDR1 Pin=R12-3
+Removed Pin From Net: NetName=VREFDDR1 Pin=R12-4
+Removed Member From Class: ClassName=as14120_x31_ddr Member=R1
+Removed Member From Class: ClassName=as14120_x31_ddr Member=R2
+Removed Member From Class: ClassName=as14120_x31_ddr Member=R5
+Removed Member From Class: ClassName=as14120_x31_ddr Member=R6
+Removed Member From Class: ClassName=as14120_x31_ddr Member=R7
+Removed Member From Class: ClassName=as14120_x31_ddr Member=R8
+Removed Member From Class: ClassName=as14120_x31_ddr Member=R9
+Removed Member From Class: ClassName=as14120_x31_ddr Member=R10
+Removed Member From Class: ClassName=as14120_x31_ddr Member=R11
+Removed Member From Class: ClassName=as14120_x31_ddr Member=R12
+Change Component DesignItemId : Designator=R3 Old DesignItemId=RES_CAY16 New DesignItemId=cay16-J4
+Change Component DesignItemId : Designator=R4 Old DesignItemId=RES_CAY16 New DesignItemId=cay16-J4
+Change Component Footprint: Designator=R3 Old Footprint=CAY16 New Footprint=cay16-j8
+Change Component Footprint: Designator=R4 Old Footprint=CAY16 New Footprint=cay16-j8
+Change Component Comment : Designator=R3 Old Comment=RES_CAY16 New Comment=51
+Change Component Comment : Designator=R4 Old Comment=RES_CAY16 New Comment=51
+Added Component: Designator=R110(cay16-j8)
+Added Component: Designator=R111(cay16-j8)
+Added Pin To Net: NetName=NetC1_2 Pin=R3-1
+Added Pin To Net: NetName=NetC1_2 Pin=R3-2
+Added Pin To Net: NetName=DDR0_A5 Pin=R4-5
+Added Pin To Net: NetName=DDR0_A9 Pin=R4-6
+Added Pin To Net: NetName=DDR0_A13 Pin=R4-7
+Added Pin To Net: NetName=DDR0_A7 Pin=R4-8
+Added Pin To Net: NetName=VREFDDR0 Pin=R110-1
+Added Pin To Net: NetName=VREFDDR0 Pin=R110-2
+Added Pin To Net: NetName=VREFDDR0 Pin=R110-3
+Added Pin To Net: NetName=VREFDDR0 Pin=R110-4
+Added Pin To Net: NetName=DDR0_A2 Pin=R110-5
+Added Pin To Net: NetName=DDR0_A0 Pin=R110-6
+Added Pin To Net: NetName=DDR0_BA0 Pin=R110-7
+Added Pin To Net: NetName=DDR0_BA2 Pin=R110-8
+Added Pin To Net: NetName=VREFDDR0 Pin=R111-1
+Added Pin To Net: NetName=VREFDDR0 Pin=R111-2
+Added Pin To Net: NetName=VREFDDR0 Pin=R111-3
+Added Pin To Net: NetName=VREFDDR0 Pin=R111-4
+Added Member To Class: ClassName=as14120_x31_ddr Member=Component R110 51
+Added Member To Class: ClassName=as14120_x31_ddr Member=Component R111 51

@@ -1,0 +1,13 @@
+Protel Design System Design Rule Check
+PCB File : D:\ADC\AS14120\Altium\as14120_x31\as_x31.PcbDoc
+Date     : 16.11.2013
+Time     : 0:53:33
+
+Processing Rule : Matched Net Lengths(Tolerance=1mm) (InDifferentialPair ('D_DDR0_CK'))
+   Violation between Matched Net Lengths: Net DDR0_CK_N
+   Violation between Matched Net Lengths Between Net on TopLayer And Net on TopLayer
+Rule Violations :2
+
+
+Violations Detected : 2
+Time Elapsed        : 00:00:01

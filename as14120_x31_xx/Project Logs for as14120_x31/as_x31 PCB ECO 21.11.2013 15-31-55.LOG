@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VREFDDR1 Pin=R3-1
+Removed Pin From Net: NetName=VREFDDR0 Pin=R4-2
+Added Pin To Net: NetName=VREFDDR0 Pin=R3-1
+Added Pin To Net: NetName=DDR0_A5 Pin=R3-5
+Added Pin To Net: NetName=DDR0_A9 Pin=R3-6
+Added Pin To Net: NetName=DDR0_A13 Pin=R3-7
+Added Pin To Net: NetName=DDR0_A7 Pin=R3-8

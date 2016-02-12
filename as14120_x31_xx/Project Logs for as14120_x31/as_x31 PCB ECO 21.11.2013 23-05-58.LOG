@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=VREFDDR1 Pin=R?-4
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Added Pin To Net: NetName=VREFDDR1 Pin=R2-1
+Added Pin To Net: NetName=VREFDDR1 Pin=R2-2
+Added Pin To Net: NetName=VREFDDR1 Pin=R2-3
+Added Pin To Net: NetName=VREFDDR1 Pin=R2-4
+Added Pin To Net: NetName=VREFDDR1 Pin=R5-1
+Added Pin To Net: NetName=VREFDDR1 Pin=R5-2
+Added Pin To Net: NetName=VREFDDR1 Pin=R5-3
+Added Pin To Net: NetName=VREFDDR1 Pin=R5-4
+Added Pin To Net: NetName=VREFDDR1 Pin=R6-1
+Added Pin To Net: NetName=VREFDDR1 Pin=R6-2
+Added Pin To Net: NetName=VREFDDR1 Pin=R6-3
+Added Pin To Net: NetName=VREFDDR1 Pin=R6-4
+Added Pin To Net: NetName=VREFDDR1 Pin=R7-1
+Added Pin To Net: NetName=VREFDDR1 Pin=R7-2
+Added Pin To Net: NetName=VREFDDR1 Pin=R7-3
+Added Pin To Net: NetName=VREFDDR1 Pin=R7-4
+Added Pin To Net: NetName=VREFDDR1 Pin=R8-1
+Added Pin To Net: NetName=VREFDDR1 Pin=R8-2
+Added Pin To Net: NetName=VREFDDR1 Pin=R8-3
+Added Pin To Net: NetName=VREFDDR1 Pin=R8-4
+Added Member To Class: ClassName=as14120_x31_ddr Member=Component R1 51
+Added Member To Class: ClassName=as14120_x31_ddr Member=Component R2 51
+Added Member To Class: ClassName=as14120_x31_ddr Member=Component R5 51
+Added Member To Class: ClassName=as14120_x31_ddr Member=Component R6 51
+Added Member To Class: ClassName=as14120_x31_ddr Member=Component R7 51

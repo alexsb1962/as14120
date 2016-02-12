@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [as14120_x31.PrjPCB]
+   Generated File[as_x31.TXT]
+   Generated File[as_x31.LDP]
+   Generated File[as_x31.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:46:44 On 30.01.2014

@@ -1,0 +1,79 @@
+INFO: Loaded existing interconnect file 'D:\ADC\AS14120\Altium\as14120\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\SPB_16.6\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_1S_1R_2850
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaab04760.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_2851
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaad04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2852
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaae04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2853
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaaf04760.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_2854
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaag04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2855
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaah04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2856
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaai04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2857
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaaj04760.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_2858
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaak04760.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_2859
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaal04760.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_2860
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaam04760.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_2861
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaan04760.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_2862
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaao04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2863
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaap04760.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_2864
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaaq04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2865
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaar04760.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_2866
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaas04760.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_2867
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaat04760.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_2868
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaau04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2869
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaav04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2870
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaaw04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2871
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaax04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2872
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaay04760.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_2873
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaaz04760.in" 0.00127
+INFO: Field Solver bem2d for STL_2S_1R_2874
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaaba04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2875
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaabb04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2876
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaabc04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2877
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaabd04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2878
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaabe04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2879
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaabf04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2880
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaabg04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2881
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaabh04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2882
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaabi04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2883
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaabj04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2884
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaabk04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2885
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaabl04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2886
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaabm04760.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_2887
+INFO: Executing command: bem2d 0 "C:/Users/alex/AppData/Local/Temp/#Taaaabn04760.in" 0.00127

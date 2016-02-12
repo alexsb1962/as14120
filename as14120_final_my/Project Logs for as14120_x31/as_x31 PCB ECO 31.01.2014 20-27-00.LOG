@@ -1,0 +1,18 @@
+Added Component: Designator=R111(RESC0805(2012)_L)
+Added Component: Designator=R112(RESC0805(2012)_L)
+Added Component: Designator=VD4(2.0X1.25X0.8)
+Added Component: Designator=VD5(2.0X1.25X0.8)
+Added Pin To Net: NetName=V2P5D Pin=R111-2
+Added Pin To Net: NetName=V2P5D Pin=R112-2
+Added Pin To Net: NetName=NetD4_R30 Pin=D4-R30
+Added Pin To Net: NetName=NetD4_R30 Pin=VD4-2
+Added Net: Name=NetD4_R30
+Added Pin To Net: NetName=NetD4_T30 Pin=D4-T30
+Added Pin To Net: NetName=NetD4_T30 Pin=VD5-2
+Added Net: Name=NetD4_T30
+Added Pin To Net: NetName=NetR111_1 Pin=R111-1
+Added Pin To Net: NetName=NetR111_1 Pin=VD4-1
+Added Net: Name=NetR111_1
+Added Pin To Net: NetName=NetR112_1 Pin=R112-1
+Added Pin To Net: NetName=NetR112_1 Pin=VD5-1
+Added Net: Name=NetR112_1

@@ -1,0 +1,122 @@
+Removed Member From Class: ClassName=as14120_x31_adc Member=R84
+Added Pin To Net: NetName=CY_DQ0 Pin=R58-1
+Added Pin To Net: NetName=CY_DQ1 Pin=R58-2
+Added Pin To Net: NetName=CY_DQ2 Pin=R58-3
+Added Pin To Net: NetName=CY_DQ3 Pin=R58-4
+Added Pin To Net: NetName=CY_DQ4 Pin=R63-1
+Added Pin To Net: NetName=CY_DQ5 Pin=R63-2
+Added Pin To Net: NetName=CY_DQ6 Pin=R63-3
+Added Pin To Net: NetName=CY_DQ7 Pin=R63-4
+Added Pin To Net: NetName=CY_DQ8 Pin=R64-1
+Added Pin To Net: NetName=CY_DQ9 Pin=R64-2
+Added Pin To Net: NetName=CY_DQ10 Pin=R64-3
+Added Pin To Net: NetName=CY_DQ11 Pin=R64-4
+Added Pin To Net: NetName=CY_DQ12 Pin=R69-1
+Added Pin To Net: NetName=CY_DQ13 Pin=R69-2
+Added Pin To Net: NetName=CY_DQ14 Pin=R69-3
+Added Pin To Net: NetName=CY_DQ15 Pin=R69-4
+Added Pin To Net: NetName=CY_PCLK Pin=R70-1
+Added Pin To Net: NetName=CY_CTRL0 Pin=R70-2
+Added Pin To Net: NetName=CY_CTRL1 Pin=R70-3
+Added Pin To Net: NetName=CY_CTRL2 Pin=R70-4
+Added Pin To Net: NetName=CY_CTRL3 Pin=R71-1
+Added Pin To Net: NetName=CY_CTRL4 Pin=R71-2
+Added Pin To Net: NetName=CY_CTRL5 Pin=R71-3
+Added Pin To Net: NetName=CY_CTRL6 Pin=R71-4
+Added Pin To Net: NetName=CY_CTRL7 Pin=R73-1
+Added Pin To Net: NetName=CY_CTRL8 Pin=R73-2
+Added Pin To Net: NetName=CY_CTRL9 Pin=R73-3
+Added Pin To Net: NetName=CY_CTRL10 Pin=R73-4
+Added Pin To Net: NetName=CY_CTRL11 Pin=R74-1
+Added Pin To Net: NetName=CY_CTRL12 Pin=R74-2
+Added Pin To Net: NetName=NetD10_F7 Pin=D10-F7
+Added Pin To Net: NetName=NetD10_F7 Pin=R58-6
+Added Net: Name=NetD10_F7
+Added Pin To Net: NetName=NetD10_F8 Pin=D10-F8
+Added Pin To Net: NetName=NetD10_F8 Pin=R63-7
+Added Net: Name=NetD10_F8
+Added Pin To Net: NetName=NetD10_F9 Pin=D10-F9
+Added Pin To Net: NetName=NetD10_F9 Pin=R58-7
+Added Net: Name=NetD10_F9
+Added Pin To Net: NetName=NetD10_F10 Pin=D10-F10
+Added Pin To Net: NetName=NetD10_F10 Pin=R58-8
+Added Net: Name=NetD10_F10
+Added Pin To Net: NetName=NetD10_G5 Pin=D10-G5
+Added Pin To Net: NetName=NetD10_G5 Pin=R73-7
+Added Net: Name=NetD10_G5
+Added Pin To Net: NetName=NetD10_G6 Pin=D10-G6
+Added Pin To Net: NetName=NetD10_G6 Pin=R71-6
+Added Net: Name=NetD10_G6
+Added Pin To Net: NetName=NetD10_G7 Pin=D10-G7
+Added Pin To Net: NetName=NetD10_G7 Pin=R71-7
+Added Net: Name=NetD10_G7
+Added Pin To Net: NetName=NetD10_G8 Pin=D10-G8
+Added Pin To Net: NetName=NetD10_G8 Pin=R69-5
+Added Net: Name=NetD10_G8
+Added Pin To Net: NetName=NetD10_G9 Pin=D10-G9
+Added Pin To Net: NetName=NetD10_G9 Pin=R63-8
+Added Net: Name=NetD10_G9
+Added Pin To Net: NetName=NetD10_G10 Pin=D10-G10
+Added Pin To Net: NetName=NetD10_G10 Pin=R58-5
+Added Net: Name=NetD10_G10
+Added Pin To Net: NetName=NetD10_H5 Pin=D10-H5
+Added Pin To Net: NetName=NetD10_H5 Pin=R74-7
+Added Net: Name=NetD10_H5
+Added Pin To Net: NetName=NetD10_H6 Pin=D10-H6
+Added Pin To Net: NetName=NetD10_H6 Pin=R73-6
+Added Net: Name=NetD10_H6
+Added Pin To Net: NetName=NetD10_H7 Pin=D10-H7
+Added Pin To Net: NetName=NetD10_H7 Pin=R71-8
+Added Net: Name=NetD10_H7
+Added Pin To Net: NetName=NetD10_H8 Pin=D10-H8
+Added Pin To Net: NetName=NetD10_H8 Pin=R73-8
+Added Net: Name=NetD10_H8
+Added Pin To Net: NetName=NetD10_H9 Pin=D10-H9
+Added Pin To Net: NetName=NetD10_H9 Pin=R63-5
+Added Net: Name=NetD10_H9
+Added Pin To Net: NetName=NetD10_H10 Pin=D10-H10
+Added Pin To Net: NetName=NetD10_H10 Pin=R63-6
+Added Net: Name=NetD10_H10
+Added Pin To Net: NetName=NetD10_J5 Pin=D10-J5
+Added Pin To Net: NetName=NetD10_J5 Pin=R74-8
+Added Net: Name=NetD10_J5
+Added Pin To Net: NetName=NetD10_J6 Pin=D10-J6
+Added Pin To Net: NetName=NetD10_J6 Pin=R70-8
+Added Net: Name=NetD10_J6
+Added Pin To Net: NetName=NetD10_J7 Pin=D10-J7
+Added Pin To Net: NetName=NetD10_J7 Pin=R70-5
+Added Net: Name=NetD10_J7
+Added Pin To Net: NetName=NetD10_J8 Pin=D10-J8
+Added Pin To Net: NetName=NetD10_J8 Pin=R69-6
+Added Net: Name=NetD10_J8
+Added Pin To Net: NetName=NetD10_J9 Pin=D10-J9
+Added Pin To Net: NetName=NetD10_J9 Pin=R64-7
+Added Net: Name=NetD10_J9
+Added Pin To Net: NetName=NetD10_J10 Pin=D10-J10
+Added Pin To Net: NetName=NetD10_J10 Pin=R64-8
+Added Net: Name=NetD10_J10
+Added Pin To Net: NetName=NetD10_K5 Pin=D10-K5
+Added Pin To Net: NetName=NetD10_K5 Pin=R73-5
+Added Net: Name=NetD10_K5
+Added Pin To Net: NetName=NetD10_K6 Pin=D10-K6
+Added Pin To Net: NetName=NetD10_K6 Pin=R71-5
+Added Net: Name=NetD10_K6
+Added Pin To Net: NetName=NetD10_K7 Pin=D10-K7
+Added Pin To Net: NetName=NetD10_K7 Pin=R70-6
+Added Net: Name=NetD10_K7
+Added Pin To Net: NetName=NetD10_K8 Pin=D10-K8
+Added Pin To Net: NetName=NetD10_K8 Pin=R70-7
+Added Net: Name=NetD10_K8
+Added Pin To Net: NetName=NetD10_K9 Pin=D10-K9
+Added Pin To Net: NetName=NetD10_K9 Pin=R69-7
+Added Net: Name=NetD10_K9
+Added Pin To Net: NetName=NetD10_K10 Pin=D10-K10
+Added Pin To Net: NetName=NetD10_K10 Pin=R69-8
+Added Net: Name=NetD10_K10
+Added Pin To Net: NetName=NetD10_K11 Pin=D10-K11
+Added Pin To Net: NetName=NetD10_K11 Pin=R64-6
+Added Net: Name=NetD10_K11
+Added Pin To Net: NetName=NetD10_L10 Pin=D10-L10
+Added Pin To Net: NetName=NetD10_L10 Pin=R64-5
+Added Net: Name=NetD10_L10
+Added Member To Class: ClassName=as14120_x31_adc Member=Component R86 1K 1% 0805(2012)

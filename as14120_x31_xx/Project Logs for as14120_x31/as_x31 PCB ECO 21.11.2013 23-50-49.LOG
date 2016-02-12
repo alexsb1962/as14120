@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=DDR0_BA1 Pin=R6-5
+Added Pin To Net: NetName=DDR0_A4 Pin=R6-6
+Added Pin To Net: NetName=DDR0_A6 Pin=R6-7
+Added Pin To Net: NetName=DDR0_A11 Pin=R6-8

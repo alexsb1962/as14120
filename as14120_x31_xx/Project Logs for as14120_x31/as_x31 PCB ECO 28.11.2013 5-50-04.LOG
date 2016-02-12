@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=CTRL10 Pin=R65-5
+Added Pin To Net: NetName=D16 Pin=R65-6
+Added Pin To Net: NetName=D18 Pin=R65-7
+Added Pin To Net: NetName=D19 Pin=R65-8
+Added Pin To Net: NetName=D28 Pin=D10-F5
+Added Net: Name=D28
+Added Pin To Net: NetName=D29 Pin=D10-E1
+Added Net: Name=D29
+Added Pin To Net: NetName=D30 Pin=D10-E5
+Added Net: Name=D30
+Added Pin To Net: NetName=D31 Pin=D10-E4
+Added Net: Name=D31

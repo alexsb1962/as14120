@@ -1,0 +1,45 @@
+Change Component Comment : Designator=R111 Old Comment=* New Comment=51
+Added Component: Designator=R112(CAY16)
+Added Component: Designator=R113(CAY16)
+Added Component: Designator=R?(CAY16)
+Added Component: Designator=R?(CAY16)
+Added Component: Designator=R?(CAY16)
+Added Component: Designator=R?(CAY16)
+Added Component: Designator=R?(CAY16)
+Added Component: Designator=R?(CAY16)
+Added Pin To Net: NetName=VREFDDR0 Pin=R112-1
+Added Pin To Net: NetName=VREFDDR0 Pin=R112-2
+Added Pin To Net: NetName=VREFDDR0 Pin=R112-3
+Added Pin To Net: NetName=VREFDDR0 Pin=R112-4
+Added Pin To Net: NetName=VREFDDR0 Pin=R113-1
+Added Pin To Net: NetName=VREFDDR0 Pin=R113-2
+Added Pin To Net: NetName=VREFDDR0 Pin=R113-3
+Added Pin To Net: NetName=VREFDDR0 Pin=R113-4
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-1
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-1
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-1
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-1
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-1
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-2
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-2
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-2
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-2
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-2
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-3
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-3
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-3
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-3
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-3
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-3
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-4
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-4
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-4
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-4
+Added Pin To Net: NetName=VREFDDR1 Pin=R?-4
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=R?-1
+Added Pin To Net: NetName=NetC2_2 Pin=R?-2
+Added Net: Name=NetC2_2
+Added Member To Class: ClassName=as14120_x31_ddr Member=Component R112 51
+Added Member To Class: ClassName=as14120_x31_ddr Member=Component R113 51
+Added Member To Class: ClassName=as14120_x31_ddr Member=Component R? 51

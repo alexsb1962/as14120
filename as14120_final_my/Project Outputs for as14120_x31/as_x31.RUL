@@ -1,0 +1,20 @@
+DRC Rules Export File for PCB: D:\ADC\AS14120\Altium\as14120_final_my\as_x31.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_d6_poly|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=Width_ddr|Scope=Board|Minimum=5.91
+RuleKind=Width|RuleName=DiffPair_adcWidth|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=Clearance_v1p5d_poly|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_0v_9517_poly|Scope=Board|Minimum=9.84
+RuleKind=Width|RuleName=Width_diff90|Scope=Board|Minimum=5.51
+RuleKind=Width|RuleName=Width_room_d10|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width_diff100|Scope=Board|Minimum=4.92
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.92
+RuleKind=Width|RuleName=Width_bga_p1.0 rooms|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=Clearance_FPGA|Scope=Board|Minimum=4.92
+RuleKind=Clearance|RuleName=shield_clearance|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion_via|Scope=Board|Minimum=-3.94
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.92
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width_power|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=BGA_0.8|Scope=Board|Minimum=4.88
+RuleKind=Width|RuleName=usb_drv_bus|Scope=Board|Minimum=5.91

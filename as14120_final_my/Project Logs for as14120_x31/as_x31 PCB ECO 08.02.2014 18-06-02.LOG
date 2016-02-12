@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetR89_2 Pin=T1-1
+Removed Pin From Net: NetName=NetR85_2 Pin=T1-3
+Added Component: Designator=R86(RESC0603(1608)_L)
+Added Pin To Net: NetName=NetC217_2 Pin=R86-1
+Added Pin To Net: NetName=NetC216_2 Pin=R86-2
+Added Pin To Net: NetName=NetR85_2 Pin=T1-1
+Added Pin To Net: NetName=NetR89_2 Pin=T1-3

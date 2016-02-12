@@ -1,0 +1,15 @@
+Change Component DesignItemId : Designator=C216 Old DesignItemId=CAP_0805 New DesignItemId=CAP_0402
+Change Component DesignItemId : Designator=C217 Old DesignItemId=CAP_0805 New DesignItemId=CAP_0402
+Change Component DesignItemId : Designator=R86 Old DesignItemId=RES_0805 New DesignItemId=RES_0603
+Change Component DesignItemId : Designator=R89 Old DesignItemId=RES_0805 New DesignItemId=RES_0603
+Change Component DesignItemId : Designator=R90 Old DesignItemId=RES_0805 New DesignItemId=RES_0603
+Change Component Footprint: Designator=C216 Old Footprint=CAPC0805(2012)100_N New Footprint=CAPC0402(1005)60_M
+Change Component Footprint: Designator=C217 Old Footprint=CAPC0805(2012)100_N New Footprint=CAPC0402(1005)60_M
+Change Component Footprint: Designator=R86 Old Footprint=RESC0805(2012)_L New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=R89 Old Footprint=RESC0805(2012)_L New Footprint=RESC0603(1608)_L
+Change Component Footprint: Designator=R90 Old Footprint=RESC0805(2012)_L New Footprint=RESC0603(1608)_L
+Change Component Comment : Designator=R86 Old Comment=1K 1% 0805(2012) New Comment=1K 5% 0603(1608)
+Change Component Comment : Designator=R89 Old Comment=1K 1% 0805(2012) New Comment=1K 5% 0603(1608)
+Change Component Comment : Designator=R90 Old Comment=1K 1% 0805(2012) New Comment=1K 5% 0603(1608)
+Change Component Comment : Designator=C216 Old Comment=CAP_0805 New Comment=CAP 1uF 10V 0402(1005)
+Change Component Comment : Designator=C217 Old Comment=CAP_0805 New Comment=CAP 1uF 10V 0402(1005)

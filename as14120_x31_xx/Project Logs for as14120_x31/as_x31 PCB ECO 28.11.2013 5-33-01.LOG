@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=D13 Pin=R71-5
+Removed Pin From Net: NetName=CTRL0 Pin=R71-6
+Removed Pin From Net: NetName=CTRL1 Pin=R71-7
+Removed Pin From Net: NetName=CTRL6 Pin=R71-8
+Added Pin To Net: NetName=D13 Pin=R70-5
+Added Pin To Net: NetName=CTRL0 Pin=R70-6
+Added Pin To Net: NetName=CTRL1 Pin=R70-7
+Added Pin To Net: NetName=CTRL6 Pin=R70-8

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=CY_DQ24 Pin=D4-C30
+Removed Pin From Net: NetName=CY_DQ18 Pin=D4-D27
+Removed Pin From Net: NetName=CY_DQ22 Pin=D4-D29
+Removed Pin From Net: NetName=CY_DQ25 Pin=D4-D30
+Removed Pin From Net: NetName=CY_DQ19 Pin=D4-E27
+Removed Pin From Net: NetName=CY_DQ28 Pin=D4-F29
+Removed Pin From Net: NetName=CY_DQ29 Pin=D4-G29
+Removed Pin From Net: NetName=CY_DQ16 Pin=D4-J23
+Removed Pin From Net: NetName=CY_DQ27 Pin=D4-L23
+Removed Pin From Net: NetName=CY_DQ26 Pin=D4-L24
+Removed Pin From Net: NetName=CY_DQ21 Pin=D4-P20
+Removed Pin From Net: NetName=CY_DQ31 Pin=D4-R20
+Removed Pin From Net: NetName=CY_DQ30 Pin=D4-T21
+Removed Pin From Net: NetName=0V Pin=R21-1
+Added Component: Designator=R?(RESC0603(1608)_L)
+Added Pin To Net: NetName=ADC_D5_N Pin=D4-B29
+Added Pin To Net: NetName=ADC_D5_P Pin=D4-C29
+Added Pin To Net: NetName=ADC_D6_N Pin=D4-C30
+Added Pin To Net: NetName=ADC_D6_P Pin=D4-D30
+Added Pin To Net: NetName=ADC_D7_N Pin=D4-E30
+Added Pin To Net: NetName=ADC_D7_P Pin=D4-F30
+Added Pin To Net: NetName=ADC_D8_P Pin=D4-H29
+Added Pin To Net: NetName=ADC_D8_N Pin=D4-H30
+Added Pin To Net: NetName=ADC_D9_N Pin=D4-J30
+Added Pin To Net: NetName=ADC_D9_P Pin=D4-K30
+Added Pin To Net: NetName=ADC_D10_P Pin=D4-L29
+Added Pin To Net: NetName=ADC_D10_N Pin=D4-L30
+Added Pin To Net: NetName=ADC_D11_P Pin=D4-M29
+Added Pin To Net: NetName=ADC_D11_N Pin=D4-N30
+Added Pin To Net: NetName=ADC_D12_P Pin=D4-P29
+Added Pin To Net: NetName=ADC_D12_N Pin=D4-P30
+Added Pin To Net: NetName=ADC_D13_N Pin=D4-R30
+Added Pin To Net: NetName=ADC_D13_P Pin=D4-T30
+Added Pin To Net: NetName=0V Pin=R?-1
+Added Member To Class: ClassName=as14120_x31_fpga_cypress Member=Component R? 240

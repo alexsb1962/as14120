@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=CY_DQ18 Pin=D4-AF29
+Removed Pin From Net: NetName=CY_DQ19 Pin=D4-AF30
+Removed Pin From Net: NetName=CY_DQ16 Pin=D4-AG29
+Removed Pin From Net: NetName=CY_CTRL11 Pin=D4-AH29
+Removed Pin From Net: NetName=CY_CTRL10 Pin=D4-AH30
+Added Pin To Net: NetName=CY_CTRL11 Pin=D4-AF29
+Added Pin To Net: NetName=CY_CTRL6 Pin=D4-AF30
+Added Pin To Net: NetName=CY_CTRL10 Pin=D4-AG29
+Added Pin To Net: NetName=CY_DQ13 Pin=D4-AH30

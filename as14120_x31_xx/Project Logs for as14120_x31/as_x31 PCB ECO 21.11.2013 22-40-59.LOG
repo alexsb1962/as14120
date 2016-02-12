@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R3 Old Footprint=cay16-j8 New Footprint=CAY16
+Change Component Footprint: Designator=R4 Old Footprint=cay16-j8 New Footprint=CAY16
+Change Component Footprint: Designator=R110 Old Footprint=cay16-j8 New Footprint=CAY16
+Change Component Footprint: Designator=R111 Old Footprint=cay16-j8 New Footprint=CAY16
+Change Component Comment : Designator=R3 Old Comment=51 New Comment=*
+Change Component Comment : Designator=R4 Old Comment=51 New Comment=*
+Change Component Comment : Designator=R110 Old Comment=51 New Comment=*
+Change Component Comment : Designator=R111 Old Comment=51 New Comment=*

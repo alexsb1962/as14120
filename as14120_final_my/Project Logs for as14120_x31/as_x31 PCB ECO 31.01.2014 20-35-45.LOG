@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=V2P5D Pin=R110-2
+Removed Pin From Net: NetName=V2P5D Pin=R111-2
+Removed Pin From Net: NetName=V2P5D Pin=R112-2
+Added Pin To Net: NetName=V2P5USB Pin=R110-2
+Added Pin To Net: NetName=V2P5USB Pin=R111-2
+Added Pin To Net: NetName=V2P5USB Pin=R112-2

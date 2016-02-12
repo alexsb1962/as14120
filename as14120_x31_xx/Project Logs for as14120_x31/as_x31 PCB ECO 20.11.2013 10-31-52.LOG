@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=DDR1_A12 Pin=R4-7
+Added Pin To Net: NetName=DDR0_A14 Pin=R5-6
+Added Pin To Net: NetName=DDR0_A6 Pin=R6-7
+Added Pin To Net: NetName=DDR0_A0 Pin=R7-6
+Added Pin To Net: NetName=DDR0_BA2 Pin=R8-7
+Added Pin To Net: NetName=DDR1_A3 Pin=R8-8
+Added Pin To Net: NetName=C_DQ4 Pin=R62-8
+Added Pin To Net: NetName=C_DQ6 Pin=R64-6
+Added Pin To Net: NetName=C_DQ8 Pin=R65-7
+Added Pin To Net: NetName=C_DQ7 Pin=R65-8
+Added Pin To Net: NetName=C_DQ11 Pin=R66-8
+Added Pin To Net: NetName=CTRL6 Pin=R74-7
+Added Pin To Net: NetName=CTRL9 Pin=R75-5

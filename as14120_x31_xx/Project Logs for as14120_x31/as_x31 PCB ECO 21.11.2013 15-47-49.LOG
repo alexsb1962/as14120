@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=DDR0_BA0 Pin=D1-M2
+Removed Pin From Net: NetName=DDR0_BA2 Pin=D1-M3
+Removed Pin From Net: NetName=DDR0_BA1 Pin=D1-N8
+Added Pin To Net: NetName=DDR0_BA0 Pin=R4-7
+Added Pin To Net: NetName=DDR0_BA2 Pin=R4-8

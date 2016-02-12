@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=ADC_D0_N Pin=D4-E28
+Added Pin To Net: NetName=ADC_D0_P Pin=D4-F28
+Added Pin To Net: NetName=ADC_D1_P Pin=D4-G27
+Added Pin To Net: NetName=ADC_D1_N Pin=D4-G28
+Added Pin To Net: NetName=ADC_D2_N Pin=D4-K28
+Added Pin To Net: NetName=ADC_D2_P Pin=D4-L28
+Added Pin To Net: NetName=ADC_D3_P Pin=D4-M27
+Added Pin To Net: NetName=ADC_D3_N Pin=D4-M28
+Added Pin To Net: NetName=ADC_D4_P Pin=D4-N26
+Added Pin To Net: NetName=ADC_D4_N Pin=D4-N27

@@ -1,0 +1,86 @@
+Protel Design System Design Rule Check
+PCB File : D:\ADC\AS14120\Altium\as14120\as14120_all.PcbDoc
+Date     : 13.11.2013
+Time     : 15:47:36
+
+Processing Rule : Matched Net Lengths(Tolerance=0.5mm) (InDifferentialPair ('D_DDR_CK_'))
+Rule Violations :0
+
+Processing Rule : Matched Net Lengths(Tolerance=0.5mm) (InNetClass('ddr_diff_pair'))
+   Violation between Matched Net Lengths: Net DDR_DQS0_N
+   Violation between Matched Net Lengths: Net DDR_DQS0_P
+   Violation between Matched Net Lengths: Net DDR_DQS1_N
+   Violation between Matched Net Lengths: Net DDR_DQS1_P
+   Violation between Matched Net Lengths: Net DDR_DQS2_N
+   Violation between Matched Net Lengths Between Net on TopLayer And Net on TopLayer
+   Violation between Matched Net Lengths: Net DDR_DQS3_N
+   Violation between Matched Net Lengths: Net DDR_DQS3_P
+Rule Violations :8
+
+Processing Rule : Matched Net Lengths(Tolerance=2.5mm) (InNetClass('ddr_adr_ctrl'))
+   Violation between Matched Net Lengths: Net DDR_A14
+   Violation between Matched Net Lengths: Net DDR_A0
+   Violation between Matched Net Lengths: Net DDR_A1
+   Violation between Matched Net Lengths: Net DDR_A2
+   Violation between Matched Net Lengths: Net DDR_A3
+   Violation between Matched Net Lengths: Net DDR_A5
+   Violation between Matched Net Lengths: Net DDR_A6
+   Violation between Matched Net Lengths: Net DDR_A7
+   Violation between Matched Net Lengths: Net DDR_A8
+   Violation between Matched Net Lengths: Net DDR_A9
+   Violation between Matched Net Lengths: Net DDR_A10
+   Violation between Matched Net Lengths: Net DDR_A11
+   Violation between Matched Net Lengths: Net DDR_A12
+   Violation between Matched Net Lengths: Net DDR_A13
+   Violation between Matched Net Lengths: Net DDR_BA0
+   Violation between Matched Net Lengths: Net DDR_BA1
+   Violation between Matched Net Lengths: Net DDR_BA2
+   Violation between Matched Net Lengths: Net DDR_CAS
+   Violation between Matched Net Lengths: Net DDR_CKE
+   Violation between Matched Net Lengths: Net DDR_CS
+   Violation between Matched Net Lengths: Net DDR_ODT
+   Violation between Matched Net Lengths: Net DDR_RAS
+   Violation between Matched Net Lengths: Net DDR_RESET_N
+   Violation between Matched Net Lengths: Net DDR_WE
+Rule Violations :24
+
+Processing Rule : Matched Net Lengths(Tolerance=0.5mm) (InNetClass('ddr_dq'))
+   Violation between Matched Net Lengths: Net DDR_DQ0
+   Violation between Matched Net Lengths: Net DDR_DQ2
+   Violation between Matched Net Lengths: Net DDR_DQ3
+   Violation between Matched Net Lengths: Net DDR_DQ4
+   Violation between Matched Net Lengths: Net DDR_DQ5
+   Violation between Matched Net Lengths: Net DDR_DQ6
+   Violation between Matched Net Lengths: Net DDR_DQ7
+   Violation between Matched Net Lengths: Net DDR_DQ8
+   Violation between Matched Net Lengths: Net DDR_DQ10
+   Violation between Matched Net Lengths: Net DDR_DQ11
+   Violation between Matched Net Lengths: Net DDR_DQ12
+   Violation between Matched Net Lengths: Net DDR_DQ13
+   Violation between Matched Net Lengths: Net DDR_DQ14
+   Violation between Matched Net Lengths: Net DDR_DQ15
+   Violation between Matched Net Lengths: Net DDR_DQ16
+   Violation between Matched Net Lengths: Net DDR_DQ17
+   Violation between Matched Net Lengths: Net DDR_DQ18
+   Violation between Matched Net Lengths: Net DDR_DQ19
+   Violation between Matched Net Lengths: Net DDR_DQ20
+   Violation between Matched Net Lengths: Net DDR_DQ21
+   Violation between Matched Net Lengths: Net DDR_DQ22
+   Violation between Matched Net Lengths: Net DDR_DQ23
+   Violation between Matched Net Lengths: Net DDR_DQ24
+   Violation between Matched Net Lengths: Net DDR_DQ25
+   Violation between Matched Net Lengths: Net DDR_DQ26
+   Violation between Matched Net Lengths: Net DDR_DQ27
+   Violation between Matched Net Lengths: Net DDR_DQ28
+   Violation between Matched Net Lengths: Net DDR_DQ29
+   Violation between Matched Net Lengths: Net DDR_DQ30
+   Violation between Matched Net Lengths: Net DDR_DQ31
+   Violation between Matched Net Lengths: Net DDR_DM0
+   Violation between Matched Net Lengths: Net DDR_DM1
+   Violation between Matched Net Lengths: Net DDR_DM2
+   Violation between Matched Net Lengths: Net DDR_DM3
+Rule Violations :34
+
+
+Violations Detected : 66
+Time Elapsed        : 00:00:03

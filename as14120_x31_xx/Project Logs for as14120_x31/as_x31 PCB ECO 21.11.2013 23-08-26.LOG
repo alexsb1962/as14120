@@ -1,0 +1,16 @@
+Removed Member From Class: ClassName=as14120_x31_ddr Member=R110
+Removed Member From Class: ClassName=as14120_x31_ddr Member=R111
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R10
+Change Component Designator: OldDesignator=R8 NewDesignator=R12
+Change Component Designator: OldDesignator=R110 NewDesignator=R4
+Change Component Designator: OldDesignator=R111 NewDesignator=R6
+Change Component Designator: OldDesignator=R112 NewDesignator=R9
+Change Component Designator: OldDesignator=R113 NewDesignator=R11
+Added Member To Class: ClassName=as14120_x31_ddr Member=Component R10 51
+Added Member To Class: ClassName=as14120_x31_ddr Member=Component R12 51
